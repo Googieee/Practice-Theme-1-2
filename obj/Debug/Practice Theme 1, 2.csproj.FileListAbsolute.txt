@@ -1,0 +1,7 @@
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\bin\Debug\Practice Theme 1, 2.exe.config
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\bin\Debug\Practice Theme 1, 2.exe
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\bin\Debug\Practice Theme 1, 2.pdb
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\obj\Debug\Practice Theme 1, 2.csproj.AssemblyReference.cache
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\obj\Debug\Practice Theme 1, 2.csproj.CoreCompileInputs.cache
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\obj\Debug\Practice Theme 1, 2.exe
+C:\Users\Juice Машина\source\repos\Practice Theme 1, 2\obj\Debug\Practice Theme 1, 2.pdb
